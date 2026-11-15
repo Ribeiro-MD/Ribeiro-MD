@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.svg" alt="RibeiroMD" width="100%">
-</p>
-
 <div align="center">
 
 [![Mods de Minecraft](https://img.shields.io/badge/Mods_de_Minecraft-Fabric-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
