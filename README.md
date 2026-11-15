@@ -1,32 +1,32 @@
 <div align="center">
 
-[![Mods de Minecraft](https://img.shields.io/badge/Mods_de_Minecraft-Fabric-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
-[![Automações](https://img.shields.io/badge/Automações-Linux_·_Web-c9779a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
+[![Minecraft Mods](https://img.shields.io/badge/Minecraft_Mods-Fabric-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
+[![Automation](https://img.shields.io/badge/Automation-Linux_·_Web-c9779a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
 [![Apps](https://img.shields.io/badge/Apps-Android_·_Desktop_·_Web-d9a0b4?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/)
 
-[![Portefólio](https://img.shields.io/badge/Portefólio-a8456a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ribeiro-md.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a8456a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ribeiro-md.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ribeiro-5b532934a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devribeiromd@gmail.com)
-[![Lisboa, Portugal](https://img.shields.io/badge/Lisboa,_Portugal-2b1025?style=for-the-badge)]()
+[![Lisbon, Portugal](https://img.shields.io/badge/Lisbon,_Portugal-2b1025?style=for-the-badge)]()
 
-*Conteúdos interativos: Web, APPs, MODs*
+*Interactive content: Web, APPs, MODs*
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Neste momento o meu trabalho divide-se em três frentes:
+Right now my work is split into three areas:
 
-- **Mods e plugins de Minecraft** — mods Fabric de cliente publicados no CurseForge (Fish Notifier, Item Seeker e FavServer), que já somam mais de 275 downloads, e plugins Paper/Bukkit para servidores
-- **Web interativa** — webapps que correm direto no browser, como o **ASCII Art by RibeiroMD**
-- **Apps de automação** — o **DMR | KB Macro** para remapear teclas e criar macros no Linux, o **DeskStats** e o **PocketDeck**, que ligam o telemóvel ao PC
-- Português e inglês
+- **Minecraft mods and plugins** — client-side Fabric mods published on CurseForge (Fish Notifier, Item Seeker and FavServer), with over 275 downloads so far, plus Paper/Bukkit plugins for servers
+- **Interactive web** — webapps that run right in the browser, like **ASCII Art by RibeiroMD**
+- **Automation apps** — **DMR | KB Macro** for key remapping and macros on Linux, plus **DeskStats** and **PocketDeck**, which connect your phone to your PC
+- Portuguese and English
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 <table>
 <tr>
@@ -34,15 +34,15 @@ Neste momento o meu trabalho divide-se em três frentes:
 
 ### [Fish Notifier](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
 
-[![Versão](https://img.shields.io/badge/Versão-1.6-a8456a?style=for-the-badge&labelColor=1a0016)](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
+[![Version](https://img.shields.io/badge/Version-1.6-a8456a?style=for-the-badge&labelColor=1a0016)](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.2-c9779a?style=for-the-badge&labelColor=1a0016)](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
-[![CurseForge](https://img.shields.io/badge/CurseForge-publicado-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
+[![CurseForge](https://img.shields.io/badge/CurseForge-published-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/fish-notifier)
 
-Mod de cliente que te avisa no momento certo durante a pesca, para não teres de olhar para o ecrã o tempo todo.
+Client-side mod that alerts you at the right moment while fishing, so you don't have to stare at the screen the whole time.
 
-- Toca um sino quando apanhas um peixe
-- Som próprio quando apanhas um caranguejo
-- Compatível com o **PyroFishing**
+- Rings a bell when you catch a fish
+- Unique sound when you catch a crab
+- Compatible with **PyroFishing**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logoColor=black)
@@ -52,15 +52,15 @@ Mod de cliente que te avisa no momento certo durante a pesca, para não teres de
 
 ### [DMR | KB Macro](https://ribeiro-md.github.io/KBMacroWebPage/)
 
-[![Plataforma](https://img.shields.io/badge/Linux-X11_·_Wayland-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/KBMacroWebPage/)
-[![Nível](https://img.shields.io/badge/Nível-kernel_(evdev)-c9779a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/KBMacroWebPage/)
+[![Platform](https://img.shields.io/badge/Linux-X11_·_Wayland-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/KBMacroWebPage/)
+[![Level](https://img.shields.io/badge/Level-kernel_(evdev)-c9779a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/KBMacroWebPage/)
 
-Muda o que uma tecla física (ou botão do rato) faz. Carregas em R e o PC recebe Q, Ctrl + C, ou uma macro com as esperas que quiseres.
+Changes what a physical key (or mouse button) does. Press R and your PC gets Q, Ctrl + C, or a macro with whatever delays you want.
 
-- Funciona em qualquer programa ou jogo, até na consola
-- Macros passo a passo com espera em ms antes de cada passo
-- Também remapeia botões do rato
-- Corre em segundo plano e recarrega sozinho quando a configuração muda
+- Works in any program or game, even in the console
+- Step-by-step macros with a delay in ms before each step
+- Remaps mouse buttons too
+- Runs in the background and reloads automatically when the config changes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-2b1025?style=for-the-badge)
@@ -72,14 +72,14 @@ Muda o que uma tecla física (ou botão do rato) faz. Carregas em R e o PC receb
 
 ### [ASCII Art by RibeiroMD](https://ribeiro-md.github.io/ASCIIartDMR/)
 
-[![Webapp](https://img.shields.io/badge/Webapp-testa_aqui-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/ASCIIartDMR/)
-[![Código](https://img.shields.io/badge/Código-aberto-c9779a?style=for-the-badge&labelColor=1a0016)](https://github.com/Ribeiro-MD/ASCIIartDMR)
+[![Webapp](https://img.shields.io/badge/Webapp-try_it-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/ASCIIartDMR/)
+[![Code](https://img.shields.io/badge/Code-open_source-c9779a?style=for-the-badge&labelColor=1a0016)](https://github.com/Ribeiro-MD/ASCIIartDMR)
 
-Transforma qualquer imagem em arte feita de caracteres, direto no browser — sem enviar a imagem para lado nenhum.
+Turns any image into art made of characters, right in the browser — your image is never uploaded anywhere.
 
-- Largura, contraste e brilho ajustáveis
-- Vários conjuntos de caracteres, a cores ou monocor
-- Copia o resultado com um toque
+- Adjustable width, contrast and brightness
+- Multiple character sets, in color or monochrome
+- Copy the result with one tap
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -90,13 +90,13 @@ Transforma qualquer imagem em arte feita de caracteres, direto no browser — se
 
 ### [TwitterTweaks](https://ribeiro-md.github.io/TwitterTweaks/)
 
-[![Site](https://img.shields.io/badge/Site-ver-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/TwitterTweaks/)
+[![Site](https://img.shields.io/badge/Site-visit-a8456a?style=for-the-badge&labelColor=1a0016)](https://ribeiro-md.github.io/TwitterTweaks/)
 
-Scripts de consola para limpar a tua conta do X (Twitter) em massa, com um limite configurável por execução.
+Console scripts to bulk-clean your X (Twitter) account, with a configurable limit per run.
 
-- **RemoveBookmarks** — remove os itens guardados
-- **UndoAllReposts** — desfaz os reposts
-- **UnfollowAll** — deixa de seguir toda a gente
+- **RemoveBookmarks** — removes your bookmarks
+- **UndoAllReposts** — undoes your reposts
+- **UnfollowAll** — unfollows everyone
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -109,11 +109,11 @@ Scripts de consola para limpar a tua conta do X (Twitter) em massa, com um limit
 
 [![Fabric](https://img.shields.io/badge/Fabric-1.21.11_→_26.x-a8456a?style=for-the-badge&labelColor=1a0016)]()
 
-Ajuda a portar mods Fabric de 1.21.11 para 26.x. Trata das mudanças repetitivas e deixa o resto para rever à mão.
+Helps port Fabric mods from 1.21.11 to 26.x. It handles the repetitive changes and leaves the rest for you to review by hand.
 
-- Arrastas o mod e sai convertido para os mappings atuais
-- Funciona com código fonte e com jars compilados
-- Mappings, imports e APIs renomeadas
+- Drag in the mod and it comes out converted to the current mappings
+- Works with source code and compiled jars
+- Mappings, imports and renamed APIs
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logoColor=black)
@@ -124,29 +124,29 @@ Ajuda a portar mods Fabric de 1.21.11 para 26.x. Trata das mudanças repetitivas
 
 ---
 
-## Mais projetos
+## More projects
 
-### Mods e plugins
+### Mods and plugins
 
-| Projeto | O que é | Tecnologias |
+| Project | What it is | Tech |
 |---|---|---|
-| [Item Seeker](https://www.curseforge.com/minecraft/mc-mods/item-seeker) | Encontra e seleciona um item pelo nome em qualquer inventário aberto | Java · Fabric |
-| [FavServer](https://www.curseforge.com/minecraft/mc-mods/favserver) | Troca o botão do Realms por um botão para o teu servidor favorito | Java · Fabric |
-| [Kick Notifier](https://ribeiro-md.github.io/Kick-Notifier-Web/) | Avisa-te no Discord quando és desconectado de um servidor | Java · Fabric |
-| DMR Chat | Responde sozinho aos minijogos de chat de um servidor | Java · Fabric |
-| Plugins de servidor | Moderação, economia, zonas AFK e ranks para servidores Paper/Bukkit | Java · Paper |
+| [Item Seeker](https://www.curseforge.com/minecraft/mc-mods/item-seeker) | Finds and selects an item by name in any open inventory | Java · Fabric |
+| [FavServer](https://www.curseforge.com/minecraft/mc-mods/favserver) | Replaces the Realms button with a button for your favorite server | Java · Fabric |
+| [Kick Notifier](https://ribeiro-md.github.io/Kick-Notifier-Web/) | Alerts you on Discord when you get disconnected from a server | Java · Fabric |
+| DMR Chat | Automatically answers a server's chat minigames | Java · Fabric |
+| Server plugins | Moderation, economy, AFK zones and ranks for Paper/Bukkit servers | Java · Paper |
 
-### Apps e automações
+### Apps and automation
 
-| Projeto | O que é | Tecnologias |
+| Project | What it is | Tech |
 |---|---|---|
-| [DeskStats](https://github.com/Ribeiro-MD/DeskStats-Instalador) | Widget Android com CPU, GPU, RAM e temperaturas do teu PC Linux | Python · Android |
-| PocketDeck *(em desenvolvimento)* | Usa o telemóvel como Stream Deck: botões para atalhos, música, programas e comandos no PC (Windows e Linux) | Kotlin · C# · Python |
-| Anti IA-Slop | Extensão que avisa quando estás num site suspeito de burla ou phishing | JavaScript |
+| [DeskStats](https://github.com/Ribeiro-MD/DeskStats-Instalador) | Android widget showing your Linux PC's CPU, GPU, RAM and temperatures | Python · Android |
+| PocketDeck *(in development)* | Turns your phone into a Stream Deck: buttons for shortcuts, music, apps and commands on your PC (Windows and Linux) | Kotlin · C# · Python |
+| Anti IA-Slop | Browser extension that warns you when you're on a suspected scam or phishing site | JavaScript |
 
 ---
 
-## Tecnologias
+## Tech stack
 
 <div align="center">
 
@@ -171,9 +171,9 @@ Ajuda a portar mods Fabric de 1.21.11 para 26.x. Trata das mudanças repetitivas
 
 <div align="center">
 
-**Tens um projeto em mente ou queres simplesmente trocar ideias? Fala comigo.**
+**Got a project in mind or just want to chat? Get in touch.**
 
-[![Portefólio](https://img.shields.io/badge/ribeiro--md.github.io-a8456a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ribeiro-md.github.io/)
+[![Portfolio](https://img.shields.io/badge/ribeiro--md.github.io-a8456a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ribeiro-md.github.io/)
 [![Email](https://img.shields.io/badge/devribeiromd@gmail.com-2b1025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devribeiromd@gmail.com)
 
 </div>
