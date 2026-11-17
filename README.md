@@ -134,7 +134,7 @@ Helps port Fabric mods from 1.21.11 to 26.x. It handles the repetitive changes a
 | [FavServer](https://www.curseforge.com/minecraft/mc-mods/favserver) | Replaces the Realms button with a button for your favorite server | Java · Fabric |
 | [Kick Notifier](https://ribeiro-md.github.io/Kick-Notifier-Web/) | Alerts you on Discord when you get disconnected from a server | Java · Fabric |
 | DMR Chat | Automatically answers a server's chat minigames | Java · Fabric |
-| Server plugins | Moderation, economy, AFK zones and ranks for Paper/Bukkit servers | Java · Paper |
+  | Server plugins | Moderation, utility, enchants, AFK zones and rankups for Paper/Bukkit servers | Java · Paper |
 
 ### Apps and automation
 
@@ -171,7 +171,7 @@ Helps port Fabric mods from 1.21.11 to 26.x. It handles the repetitive changes a
 
 <div align="center">
 
-**Got a project in mind or just want to chat? Get in touch.**
+**Got a project in mind or just want to chat? Tell me!**
 
 [![Portfolio](https://img.shields.io/badge/ribeiro--md.github.io-a8456a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ribeiro-md.github.io/)
 [![Email](https://img.shields.io/badge/devribeiromd@gmail.com-2b1025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devribeiromd@gmail.com)
