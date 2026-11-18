@@ -19,7 +19,7 @@
 
 Right now my work is split into three areas:
 
-- **Minecraft mods and plugins** — client-side Fabric mods published on CurseForge (Fish Notifier, Item Seeker and FavServer), with over 400 downloads so far, plus Paper/Bukkit plugins for servers
+- **Minecraft mods and plugins** — client-side Fabric mods published on CurseForge (Fish Notifier, Item Seeker and FavServer), with over 450 downloads so far, plus Paper/Bukkit plugins for servers
 - **Interactive web** — webapps that run right in the browser, like **ASCII Art by RibeiroMD**
 - **Automation apps** — **DMR | KB Macro** for key remapping and macros on Linux, plus **DeskStats** and **PocketDeck**, which connect your phone to your PC
 - Portuguese and English
