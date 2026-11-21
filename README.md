@@ -19,7 +19,7 @@
 
 Right now my work is split into three areas:
 
-- **Minecraft mods and plugins** — client-side Fabric mods published on CurseForge (Fish Notifier, Item Seeker and FavServer), with over 550 downloads so far, plus Paper/Bukkit plugins for servers
+- **Minecraft mods and plugins** — client-side Fabric mods published on CurseForge (Fish Notifier, Immersive Ride, Item Seeker and FavServer), with over 560 downloads so far, plus Paper/Bukkit plugins for servers
 - **Interactive web** — webapps that run right in the browser, like **ASCII Art by RibeiroMD**
 - **Automation apps** — **DMR | KB Macro** for key remapping and macros on Linux, plus **DeskStats** and **PocketDeck**, which connect your phone to your PC
 - Portuguese and English
@@ -130,6 +130,7 @@ Helps port Fabric mods from 1.21.11 to 26.x. It handles the repetitive changes a
 
 | Project | What it is | Tech |
 |---|---|---|
+| [Immersive Ride](https://www.curseforge.com/minecraft/mc-mods/immersive-ride) | Makes horse riding more immersive: leaning into turns, gallop sway and landing impact | Java · Fabric · NeoForge |
 | [Item Seeker](https://www.curseforge.com/minecraft/mc-mods/item-seeker) | Finds and selects an item by name in any open inventory | Java · Fabric |
 | [FavServer](https://www.curseforge.com/minecraft/mc-mods/favserver) | Replaces the Realms button with a button for your favorite server | Java · Fabric |
 | [Kick Notifier](https://ribeiro-md.github.io/Kick-Notifier-Web/) | Alerts you on Discord when you get disconnected from a server | Java · Fabric |
